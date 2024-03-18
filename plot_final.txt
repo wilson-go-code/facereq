@@ -1,0 +1,3 @@
+VGG13Categorical: VGG13 + Dense(..., 2)
+
+Daripada hasil analisis embedding VGG13 Categorical didapatkan bahwa embedding memiliki bias dengan asumsi kmeans adalah benar. Maka, terdapat 29 gambar test set male yang dianggap menjadi female, 112 gambar test set female yang dianggap menjadi male; dari 1090 data testset. Ini menunjukan, bahwa VGG13 telah dapat menangkap feature space secara optimal; Akan tetapi, terdapat representasi yang dapat dikembangkan lebih lanjut.

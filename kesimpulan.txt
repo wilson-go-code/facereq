@@ -1,0 +1,1 @@
+Berdasarkan baseline, VGG13 merupakan model yang paling sesuai untuk dilakukan modifikasi baik itu dari layer-layer ataupun hyperparameter tuning.
